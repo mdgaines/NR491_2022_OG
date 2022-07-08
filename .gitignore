@@ -15,7 +15,3 @@ mirela_examples/
 /exercise2/imgs/imgs.pptx
 /exercise2/imgs/~imgs.pptx
 .pptx
-
-# Node artifact files
-node_modules/
-dist/
