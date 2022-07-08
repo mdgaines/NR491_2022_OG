@@ -16,9 +16,6 @@ mirela_examples/
 /exercise2/imgs/~imgs.pptx
 .pptx
 
-# Windows files
-*.ini
-
 # Node artifact files
 node_modules/
 dist/
